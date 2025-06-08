@@ -687,47 +687,6 @@ _Figure 10: Training and validation accuracy progression_
 9. **Pandas Documentation** - Data Analysis Library  
    📎 https://pandas.pydata.org/docs/
 
----
-
-## 👥 Contributors
-
-### 🎓 Project Team
-
-#### **Sabih Uddin**
-
-- **Role:** Lead Developer & ML Engineer
-- **Responsibilities:**
-  - Feature engineering and extraction
-  - Model development and optimization
-  - Performance evaluation and analysis
-- **Contact:** [sabih.uddin@email.com](mailto:sabih.uddin@email.com)
-
-#### **Mehreen Khan**
-
-- **Role:** Data Scientist & Research Analyst
-- **Responsibilities:**
-  - Dataset collection and preprocessing
-  - Statistical analysis and visualization
-  - Documentation and reporting
-- **Contact:** [mehreen.khan@email.com](mailto:mehreen.khan@email.com)
-
-### 👨‍🏫 Academic Supervision
-
-#### **Dr. Mahaz Khan**
-
-- **Position:** Course Instructor - Artificial Intelligence Laboratory
-- **Guidance:** Project methodology, evaluation criteria, academic standards
-
-### 🤝 Acknowledgments
-
-- **PhishTank Community** for providing real-time phishing URL database
-- **University of New Brunswick** for the comprehensive URL dataset
-- **Open Source Community** for the excellent ML libraries and tools
-- **Cybersecurity Research Community** for methodological insights
-
----
-
-## 📄 License
 
 ### 📋 MIT License
 
@@ -755,43 +714,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### ⚖️ Usage Terms
-
-- ✅ **Academic Use:** Freely available for educational and research purposes
-- ✅ **Commercial Use:** Permitted with attribution
-- ✅ **Modification:** Encouraged for improvement and customization
-- ❌ **Liability:** No warranty provided for production deployment
-
----
-
-## 📞 Contact & Support
-
-### 💬 Get in Touch
-
-- **📧 Email:** [project.phishing.detection@gmail.com](mailto:project.phishing.detection@gmail.com)
-- **🐛 Issues:** [GitHub Issues](https://github.com/your-username/repository/issues)
-- **💡 Discussions:** [GitHub Discussions](https://github.com/your-username/repository/discussions)
-- **📚 Wiki:** [Project Wiki](https://github.com/your-username/repository/wiki)
-
-### 🆘 Support
-
-For technical support, bug reports, or feature requests:
-
-1. **🔍 Check Documentation:** Ensure you've reviewed this README thoroughly
-2. **🐛 Search Issues:** Look for similar problems in existing issues
-3. **📝 Create Issue:** Provide detailed description with steps to reproduce
-4. **💬 Join Discussion:** Engage with the community for general questions
-
-### 🎯 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
-
-- 🐛 Bug reports
-- ✨ Feature requests
-- 🔧 Pull requests
-- 📖 Documentation improvements
-
----
 
 **⭐ If this project helps you, please consider giving it a star on GitHub!**
 
